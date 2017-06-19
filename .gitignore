@@ -1,0 +1,34 @@
+*~
+.DS_Store
+rebel.xml
+
+# eclipse conf file
+.settings
+.classpath
+.project
+.springBeans
+.manager
+.scala_dependencies
+
+# idea
+.idea
+*.iml
+
+# building
+/.gradle
+/gradle
+/build
+/target
+/dist
+/test-output
+/build.log
+null
+
+# other scm
+.svn
+.CVS
+.hg*
+
+# local files
+/src/main/resources-local/*
+!README.md
