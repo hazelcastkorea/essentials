@@ -15,13 +15,13 @@ rebel.xml
 *.iml
 
 # building
-/.gradle
-/gradle
-/build
-/target
-/dist
-/test-output
+.gradle
+/build/
+/target/
+/dist/
+/test-output/
 /build.log
+/out/
 null
 
 # other scm
